@@ -1,4 +1,5 @@
-# 🎉 Welcome to my personal development studio! 🎉
+# THIS STUDIO IS WORK ON PROGRESS THERE IS NO PLANS TO START BEFORE 2023/8
+## 🎉 Welcome to my personal development studio! 🎉
 
 As an independent developer, I am dedicated to creating innovative solutions using free and open source software. My projects are open to the community to use, modify, and distribute. 🤝
 
